@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background: rgb(140,247,115);
+    background: linear-gradient(0deg, rgba(140,247,115,1) 0%, rgba(106,242,235,1) 25%, rgba(157,240,255,1) 45%, rgba(226,141,254,1) 70%);;
+
+}
+    
+    
+  h1{
+    text-shadow:2px 2px #18FFFF;
+    font-size:80px;
+  }
+  p{
+    font-size:24px;
+  }
